@@ -1,0 +1,13 @@
+"name": "Ai",
+"version": "0.0.1",
+"description": "Avolites Ai plugin for Companion",
+"main": "ai.js",
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+"author": "Steven Johnson",
+"license": "MIT",
+"dependencies": {
+ "artnet-node": "haakonnessjoen/artnet-node#Discovery"
+}
+}
